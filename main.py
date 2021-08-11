@@ -15,6 +15,7 @@ def draw_picture(the_turtle):
 my_turtle = turtle.Turtle()  # Create a new Turtle object
 draw_picture(my_turtle)      # make the new Turtle draw the shape
 
+
 #creates two more turtles
 turtle1 = turtle.Turtle()
 turtle2 = turtle.Turtle()
